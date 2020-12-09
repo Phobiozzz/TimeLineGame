@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{D0214840-AA61-F9FE-97E2-31A0C6D350DF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SetupGameScripts/IncrDecreaseBtns.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ShowCard.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/deck.cs" />
+      <File FileName="Assets/Scripts/DragNdropDesktop.cs" />
+      <File FileName="Assets/Scripts/TimeLine.cs" />
+      <File FileName="Assets/ManagingTheGame.cs" />
+      <File FileName="Assets/Scripts/Player.cs" />
+      <File FileName="Assets/Scripts/ResultIndicator.cs" />
+      <File FileName="Assets/Scripts/Card.cs" />
+      <File FileName="Assets/Scripts/ChangeColor.cs" />
+      <File FileName="Assets/Scripts/RotateGears.cs" />
+      <File FileName="Assets/Scripts/SetupGameScripts/SetupInfo.cs" Line="41" Column="10" />
+      <File FileName="Assets/Scripts/SetupGameScripts/IncrDecreaseBtns.cs" Line="104" Column="8" />
+      <File FileName="Assets/LoadingScript.cs" />
+      <File FileName="Assets/SoundManager.cs" />
+      <File FileName="Assets/ButtonScript.cs" />
+      <File FileName="Assets/WarningMessage.cs" />
+      <File FileName="Assets/SliderScript.cs" />
+      <File FileName="Assets/HowToPlayScript.cs" Line="21" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="05c320d4-3cbf-4809-bc85-2a3d11bfdc4f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
